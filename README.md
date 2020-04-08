@@ -1,0 +1,1 @@
+# Nombre_Parfait_Narcissique
